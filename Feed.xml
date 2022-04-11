@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="rss_validator.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ComunicAlberti ]]></title>
+        <description><![CDATA[RSS del IES Rafael Alberti]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 11 Apr 2022 18:19:51 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[Última hora de la guerra en Ucrania, en directo | Finlandia y Suecia planean unirse a la OTAN este mismo verano.]]></title>
+            <description><![CDATA[La UE da prioridad a las armas y la ayuda militar sobre las sanciones | Austria asegura que su canciller ha tenido una conversación “muy directa, abierta y dura” con Putin | Finlandia y Suecia planean unirse a la OTAN este mismo verano]]></description>
+            <guid isPermaLink="false">Última hora de la guerra en Ucrania, en directo | Finlandia y Suecia planean unirse a la OTAN este mismo verano.</guid>
+        </item>
+        <item>
+            <title><![CDATA[Guerra Ucrania - Rusia, noticias de última hora en directo | Ucrania se prepara para la 'batalla final' en Mariupol]]></title>
+            <description><![CDATA[Ucrania se prepara para la 'batalla final' de la guerra con Rusia, en el este del país. Los rusos llevan semanas asediando Mariupol, cuya captura les permitiría consolidar sus conquistas territoriales en la franja costera a lo largo del mar de Azov, conectando así las regiones del Donbás con la península de Crimea, anexionada por Moscú en 2014. El presidente ucraniano, Volodimir Zelenski, ha asegurado este lunes, ante el Parlamento de Corea del Sur, que Rusia ha 'destruido completamente' Mariupol y teme que hayan muerto allí 'decenas de miles de personas'.]]></description>
+            <guid isPermaLink="false">Guerra Ucrania - Rusia, noticias de última hora en directo | Ucrania se prepara para la &apos;batalla final&apos; en Mariupol</guid>
+        </item>
+        <item>
+            <title><![CDATA[Guerra en Ucrania]]></title>
+            <description><![CDATA[Ucrania cumple 47 días de guerra con las tropas rusas centradas en el Donbás. Las autoridades ucranianas han denunciado bombardeos contra objetivos civiles en las regiones de Lugansk y Dnipro. En esta última ciudad han destruido el aeropuerto en un ataque con misiles.]]></description>
+            <guid isPermaLink="false">Guerra en Ucrania</guid>
+        </item>
+        <item>
+            <title><![CDATA[Guerra Rusia - Ucrania hoy: Última hora]]></title>
+            <description><![CDATA[Día 47 de la guerra. Los civiles huyen del este de Ucrania, que se prepara para 'grandes batallas'. El presidente de Ucrania, Volodimir Zelenski, ha atacado la 'política de falsedades' de Rusia, refiriéndose a la 'maquinaria de propaganda' manejada desde el Kremlin con la intención de desinformar sobre la guerra.]]></description>
+            <guid isPermaLink="false">Guerra Rusia - Ucrania hoy: Última hora</guid>
+        </item>
+        <item>
+            <title><![CDATA[La ONU denuncia 'violaciones y violencia sexual' contra las mujeres en Ucrania]]></title>
+            <description><![CDATA['Cada vez tenemos más noticias de violaciones y violencia sexual', ha denunciado este lunes Sima Bahous, directora de la agencia de la ONU para la mujer. 'Estas acusaciones deben ser investigadas de forma independiente para garantizar la justicia y la rendición de cuentas']]></description>
+            <guid isPermaLink="false">La ONU denuncia &apos;violaciones y violencia sexual&apos; contra las mujeres en Ucrania</guid>
+        </item>
+    </channel>
+</rss>
